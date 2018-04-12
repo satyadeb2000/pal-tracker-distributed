@@ -1,0 +1,1 @@
+{"git":{"commit":{"time":1516886325000,"id":"fb7201f"},"branch":"HEAD"},"build":{"version":"1.5.1-build.21","artifact":"spring-cloud-service-broker","name":"service-broker","group":"io.pivotal.spring.cloud","time":1516886420000}}
